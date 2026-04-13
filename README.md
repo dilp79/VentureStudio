@@ -24,7 +24,7 @@ AI-native venture studio focused on:
 - Agentic Commerce  
 
 ---
-
+Current rate - 1bln tokens per person per month
 ## Product Portfolio
 
 ### 1. Decision Intelligence Platform — SHEPORD
@@ -155,4 +155,4 @@ Open to:
 
 - Pilot projects  
 - Strategic partnerships  
-- Early-stage investment discussions  
+- Early-stage investment discussions
