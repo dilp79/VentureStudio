@@ -27,6 +27,7 @@ AI-native venture studio focused on:
 - Automation control & execution
 - Outcome tracking & feedback loops
 - Decision memory & auditability
+
 **Business processes coverage**
 - Assortment optimization
 - Pricing systems
@@ -44,7 +45,7 @@ Coming soon
 - Skill-based matching (not CV-based)
 - Human + AI collaboration models
 
-### 3. Lekahouse solution RETILYX
+### 3. Lakehouse solution RETILYX
 
 ### 4. genBI solution INSIVIO
 **Goal:** replace BI tools with **decision-oriented interfaces**.
