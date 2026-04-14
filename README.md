@@ -1,4 +1,5 @@
-# AI-Native Venture Studio
+# AI-Native Venture Studio VALNATIVE
+Value by Design. AI by Nature.
 
 We build systems where **data becomes decisions, decisions become actions, and actions generate measurable outcomes**.  
 **Focus:** retail, marketplaces, sellers, brands.
@@ -156,3 +157,4 @@ Open to:
 - Pilot projects  
 - Strategic partnerships  
 - Early-stage investment discussions
+VALNATIVE.COM
